@@ -51,5 +51,7 @@ public class GetRequest01 extends MedunnaBaseUrl {
        Assert.assertEquals("751-01-0103", json.getString("user.ssn"));
        Assert.assertEquals("NUCLEAR_MEDICINE", json.getString("speciality"));
 
+
+
     }
 }
