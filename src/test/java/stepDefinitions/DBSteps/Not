@@ -1,0 +1,8 @@
+  * DB brower sadece bir eklenti, database bağlanarak dataları görmek için intllij e kurduk.
+  * testleri buradan yapmayacağız.
+  * tanımlanan sadece select işlemi gerçekleştirebiliyoruz.
+  * biz database testlerini select komutlarını kullanarak UI da oluşturduğumuz datayı çekeceğiz, onunla alakalı doğrulamaları yapacağız.
+  * Databace Utility i de bağlantı kurup bu dataları almak için kullanıyoruz.
+
+  * ReadTxt, WriteTxt claslarını; Database den dataları bilgisayarımıza kaydedip okumamızı sağlayan methodlar.
+  * Physician pojo yu da oluşturmanız gerekiyor. Bu dosyaları kullanabilmek için.
